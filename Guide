@@ -1,0 +1,23 @@
+
+How to approach the project
+
+1. Performing the calculations
+2. Filter and group the data
+3. Ordering records
+
+
+1
+Performing the calculations
+Count the international students and find the summary statistics for each diagnostic test using aggregate functions. Round the averages to two decimal places and use the aliases min_phq, max_phq, and avg_phq.
+
+
+2
+Filter and group the data
+You previously performed counts and average calculations on the data; now you need to apply the appropriate filter and group so that the calculations are done on the international student group only.
+
+
+3
+Ordering records
+Order the resulting table in descending order of stay.
+
+
